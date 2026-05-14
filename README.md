@@ -1,6 +1,10 @@
-## Hiya :star:
+## Hiya !
+<img src="media/textPsych.svg" alt="TEXT" width="300" />
+<br></br>
 
-My name is Liv! I am a Psychology with Neuroscience Undergraduate.
-
- - I am currently a Placement Year Research Assistant in the Sussex Attention Lab :thought_balloon::zap:.
- - My academic interests include sensory and perceptual processes, mind wandering, cognitive neuroscience and neuropsychology, as well as statistics and coding :brain:.
+ - :seedling: I'm a Psychology with Neuroscience Undergraduate.
+ - :brain: I'm currently a Research Assistant in the Sussex Attention Lab.
+ 
+<br></br>
+<a href="https://www.linkedin.com/in/olivia-stevens05" target="_blank"><img src="media/linkedin.svg" alt="Github" width="50" />
+</a>
